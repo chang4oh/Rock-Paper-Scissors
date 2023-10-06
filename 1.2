@@ -1,0 +1,36 @@
+import random
+
+while True:
+    choices = ["rock", "paper", "scissor"]
+
+    enemy = random.choice(choices)
+    player = None
+
+    while player not in choices:
+        player = input("Choose Rock, Paper, or Scissor: ").lower()
+
+    if player == enemy:
+        print("TIE!")
+    elif player == "rock":
+        if enemy == "scissor":
+            print("WIN!")
+        else:
+            print("LOSE!")
+    elif player == "paper":
+        if enemy == "rock":
+            print("WIN!")
+        else:
+            print("LOSE!")
+    elif player == "scissor":
+        if enemy == "paper":
+            print("WIN!")
+        else:
+            print("LOSE!")
+
+    print("Enemy chose:", enemy)
+    play_again = input("Play again? (yes/no): ").lower()
+
+    if play_again != "yes":
+        break
+
+print("Bye!")
