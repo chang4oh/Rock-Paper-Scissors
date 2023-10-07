@@ -12,19 +12,27 @@ There are many different ways to code in Python and here are the ways
 
 
 2. Create Rock-Paper-Scissor though ChatGPT
-      create code
-      modification if necessary
+      (2.1) ChatGPT Solution
+      input: Create me a Python code for Rock-Paper-Scissors Game
+
+      (2.2)
+      input: Have the code to input yes/no again for wrong input
 
 3. Coding from Brocode 
       (3.1) Brocode Solution 
       Link: https://www.youtube.com/watch?v=fn68QNcatfo&t=1s
       minimized lines of code through specified win and tie condition
-      used running= False to escape while loop instead of break 
-      
+      deep understanding of the rock-paper-scissor conditions
+      used "running= False" to end while loop
+
+
 4. Coding from Brocode
-      (4.1)
-      Link: https://www.youtube.com/watch?v=XKHEtdqhLK8&t=141s
+      (4.1) Brocode Solution
       Part 38
+      Link: https://www.youtube.com/watch?v=XKHEtdqhLK8&t=141s
+      Verbose but easy to understand with each conditions written
+      used "break" to terminate while loop
+
       
 
 
