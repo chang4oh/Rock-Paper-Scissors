@@ -2,15 +2,29 @@ Rock-Paper-Scissor in Python
 There are many different ways to code in Python and here are the ways
 
 1. Solving error caused from my coding through ChatGPT
-      error code
-      fixed error
+      (1.1) Error Code
+      NameError: name 'play_again' is not defined. Did you mean: 'player_again'?.
+      changed 'play_again' to 'player_again' and woorks
+
+      (1.2) Fixed Error Code Through ChatGPT
+      Removed redundant code
+      Concise and organized
+
 
 2. Create Rock-Paper-Scissor though ChatGPT
       create code
       modification if necessary
 
 3. Coding from Brocode 
-
+      (3.1) Brocode Solution 
+      Link: https://www.youtube.com/watch?v=fn68QNcatfo&t=1s
+      minimized lines of code through specified win and tie condition
+      used running= False to escape while loop instead of break 
+      
 4. Coding from Brocode
+      (4.1)
+      Link: https://www.youtube.com/watch?v=XKHEtdqhLK8&t=141s
+      Part 38
+      
 
 
