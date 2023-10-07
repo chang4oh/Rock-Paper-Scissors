@@ -1,5 +1,6 @@
-Rock-Paper-Scissor in Python
-There are many different ways to code in Python and here are the ways
+Rock-Paper-Scissors in Python
+Game may be simple to code but have you thought of many ways it can be written?
+Here are different ways to code Rock-Paper-Scissors in Python:
 
 1. Solving error caused from my coding through ChatGPT
       (1.1) Error Code
@@ -7,22 +8,29 @@ There are many different ways to code in Python and here are the ways
       changed 'play_again' to 'player_again' and woorks
 
       (1.2) Fixed Error Code Through ChatGPT
-      Removed redundant code
+      Removed redundant print statement
       Concise and organized
 
 
-2. Create Rock-Paper-Scissor though ChatGPT
+2. Create Rock-Paper-Scissors though ChatGPT
       (2.1) ChatGPT Solution
       input: Create me a Python code for Rock-Paper-Scissors Game
+      script result is the same as other Rock-Paper-Scissors scripts
+      this script has multiple functions for specific task
+      Verbose for having functions for a simple game
 
       (2.2)
       input: Have the code to input yes/no again for wrong input
+      modified to have the play again to input either yes or no through while loop
+      works as intended.
+
 
 3. Coding from Brocode 
       (3.1) Brocode Solution 
       Link: https://www.youtube.com/watch?v=fn68QNcatfo&t=1s
       minimized lines of code through specified win and tie condition
-      deep understanding of the rock-paper-scissor conditions
+            with everything "else" lose condition
+      deep understanding of the rock-paper-scissors conditions
       used "running= False" to end while loop
 
 
@@ -30,7 +38,7 @@ There are many different ways to code in Python and here are the ways
       (4.1) Brocode Solution
       Part 38
       Link: https://www.youtube.com/watch?v=XKHEtdqhLK8&t=141s
-      Verbose but easy to understand with each conditions written
+      Verbose but easy to understand with every win, tie, and lose conditions written
       used "break" to terminate while loop
 
       
